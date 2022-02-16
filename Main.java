@@ -1,7 +1,5 @@
-//package com.tutorial;
-//import java.util.Scanner;
 
-*/
+
 /**
  * Main.java
  * [jelaskan kegunaan file ini]
